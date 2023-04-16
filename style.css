@@ -104,7 +104,7 @@
 .right .items{
     display: flex;
     align-items: center;
-
+    margin-right: 20px;
 }
 
 .right .items li{
@@ -234,7 +234,7 @@
 }
 
 .item-content{
-    width: 100%%;
+    width: 100%;
     position: relative;
 }
 
@@ -372,7 +372,7 @@
     z-index: 10;
     background-color: #050813;
     min-height: 300px;
-    width: 97%%;
+    width: 97%;
     color: #fff;
 }
 
@@ -380,7 +380,7 @@
     display: flex;
     justify-content: space-around;
     max-width: 120%;
-    min-width: 100%%;
+    min-width: 100%;
     margin: 0 auto;
     padding: 76px 0;
 }
